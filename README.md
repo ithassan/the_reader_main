@@ -59,7 +59,7 @@ git clone https://github.com/ithassan/the_reader_main.git
 
 ## 📸 Screenshots
 
-Add screenshots or demo GIFs here.
+None.
 
 ---
 
